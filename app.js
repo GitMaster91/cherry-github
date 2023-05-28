@@ -6,3 +6,4 @@ const value1 = 1;
 const value2 = 2;
 const value3 = 3;
 const value4 = 4;
+const value5 = 5;
