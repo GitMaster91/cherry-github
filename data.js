@@ -4,3 +4,10 @@ const arrDev1 = [
    { id: 3, data: ['USER 3']       },
    { id: 4, data: ['USER 4']       },
 ];
+
+
+const dataFilter = arrDev1.filter((element) => {
+   return element.id % 2 === 0;
+});
+
+console.log('data', dataFilter);
