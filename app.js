@@ -4,3 +4,4 @@ const data = [];
 
 const value1 = 1;
 const value2 = 2;
+const value3 = 3;
