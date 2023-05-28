@@ -3,6 +3,8 @@ const arrDev1 = [
    { id: 2, data: ['Leydi Lima']   },
    { id: 3, data: ['USER 3']       },
    { id: 4, data: ['USER 4']       },
+   { id: 5, data: ['USER 5']       },
+   { id: 6, data: ['USER 6']       },
 ];
 
 
