@@ -4,4 +4,5 @@ const dictionary = [
    { id: 3, letter: 'c' },
    { id: 4, letter: 'd' },
    { id: 5, letter: 'e' },
+   { id: 6, letter: 'f' },
 ];
