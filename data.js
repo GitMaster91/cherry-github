@@ -8,8 +8,6 @@ const arrDev1 = [
 ];
 
 
-const dataFilter = arrDev1.filter((element) => {
-   return element.id % 2 === 0;
-});
+const dataFilter = arrDev1.filter(element => element.id % 2 === 0);
 
 console.log('data', dataFilter);
